@@ -1,4 +1,4 @@
-module tt_um_ALU_NicolasOrcasitas (
+module src (
     input  wire [7:0] ui_in,  // Input numbers
     output reg [7:0] uo_out,   //Output number
     input  wire [7:0] uio_in,   //Control ALU / Select input number
